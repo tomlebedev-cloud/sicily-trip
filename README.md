@@ -14,6 +14,8 @@ Repository Settings → Pages → Deploy from a branch → main → / (root).
 
 ## Duomenys
 
-Nakvynių kainos yra paieškos biudžeto tikslai, ne patvirtinti pasiūlymai. Konkrečios datos autobusų vietos ir Etnos sąlygos turi būti patikrintos prieš užsakant. Šaltiniai pateikti puslapio išskleidžiamoje skiltyje.
+Atnaujinta 2026-10-13 pagal patvirtintas nakvynes: Donna Lucia Giardini Naxos (10-24–10-28, 196,76 €), Sofia Rooms Castellammare del Golfo (10-28–11-02, 196,39 €). Devynių naktų suma 393,15 €. Lapkričio 2 d. į CTA išvykstama iš Castellammare.
+
+Veiklų laikai ir vakarienių kainos yra planavimo orientyrai. Konkrečios datos autobusų vietos, CIDMA, Etnos sąlygos ir Zingaro prieinamumas turi būti patikrinti prieš užsakant. Šaltiniai pateikti puslapio išskleidžiamoje skiltyje.
 
 Žemėlapio geometrija: Openpolis / ISTAT (CC BY 4.0), Natural Earth. Miestų koordinatės: GeoNames / Open-Meteo (CC BY 4.0). D3 7.9.0: ISC licencija, copyright Mike Bostock. Išsaugota bibliotekos licencijos antraštė.
