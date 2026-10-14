@@ -2,7 +2,7 @@
 
 Interaktyvus Tomo ir Elenos kelionės planas: 2026 m. spalio 24 – lapkričio 3 d.
 
-Puslapyje yra visas dienų planas pagal abi nakvynes, rytiniai bėgimo langai, Mario Puzo „Siciliečio“ vietos, išskleidžiami paaiškinimai, Sicilijos, romano vietų ir Europos žemėlapiai, vakarienių meniu bei parduotuvių ir turgų nuorodos.
+Puslapyje yra visas dienų planas pagal abi nakvynes, rytiniai bėgimo langai, Mario Puzo „Siciliečio“ vietos, išskleidžiami paaiškinimai, Sicilijos, romano vietų ir Europos žemėlapiai, konkretūs vakarienių patiekalai, regiono skonių gidas bei parduotuvių ir turgų nuorodos. Maisto gide taip pat yra paprasti pusryčiai ir maistas išvykoms, paruošiamas be viryklės. Maisto gidas papildytas 2026-10-14.
 
 ## Atidaryti
 
