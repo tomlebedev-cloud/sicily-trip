@@ -2,7 +2,7 @@
 
 Interaktyvus Tomo ir Elenos kelionės planas: 2026 m. spalio 24 – lapkričio 3 d.
 
-Puslapyje yra visas dienų planas pagal abi nakvynes, rytiniai bėgimo langai, Mario Puzo „Siciliečio“ vietos, išskleidžiami paaiškinimai, Sicilijos, romano vietų ir Europos žemėlapiai, konkretūs vakarienių patiekalai, regiono skonių gidas bei parduotuvių ir turgų nuorodos. Maisto gide taip pat yra paprasti pusryčiai ir maistas išvykoms, paruošiamas be viryklės. Maisto gidas papildytas 2026-10-14.
+Puslapyje yra visas dienų planas pagal abi nakvynes, 7 Notion bėgimai (82 km ir pagreitėjimai), tikrų gatvių trasų žemėlapiai ir atsisiunčiami GPX, Mario Puzo „Siciliečio“ vietos, išskleidžiami paaiškinimai, Sicilijos, romano vietų ir Europos žemėlapiai, konkretūs vakarienių patiekalai, regiono skonių gidas bei parduotuvių ir turgų nuorodos. Maisto gide taip pat yra paprasti pusryčiai ir maistas išvykoms, paruošiamas be viryklės. Maisto ir bėgimų gidai papildyti 2026-10-14.
 
 ## Atidaryti
 
@@ -16,8 +16,10 @@ Repository Settings → Pages → Deploy from a branch → main → / (root).
 
 Atnaujinta 2026-10-13 pagal patvirtintas nakvynes: Donna Lucia Giardini Naxos (10-24–10-28, 196,76 €), Sofia Rooms Castellammare del Golfo (10-28–11-02, 196,39 €). Devynių naktų suma 393,15 €. Lapkričio 2 d. į CTA išvykstama iš Castellammare.
 
-Įprastas bėgimo langas 07:00–09:00, po jo pusryčiai ir dušas iki 09:45. Atstumai ir konkretūs bėgimo maršrutai bus papildyti vėliau; Etnos ir skrydžio rytams numatytos trumpesnės išimtys.
+Notion bėgimai: 10-25 8 km, 10-26 12 km, 10-27 12 km ir 6 × 20 s pagreitėjimai, 10-28 8 km, 10-29 14 km, 10-31 14 km, 11-01 14 km. 10-24, 10-30, 11-02 ir 11-03 – be treniruočių. Laikai pritaikyti vietiniam Italijos rytui, išlaikant Notion datas ir kilometrus. Etnos dieną siūlomas vėlesnis 10:00 susitikimas Piano Provenzana.
+
+Naxos 8 km = 2 × 4 km, 12 km = 3 × 4 km pakrantės pirmyn–atgal. Castellammare 14 km = 5 × 2,8 km Petrolo–Corso Garibaldi pirmyn–atgal. Pilkas priėjimas nuo nakvynės skaičiuojamas atskirai. GPX turi visus pakartojimus; realus laikrodžio rodmuo gali skirtis nuo žemėlapio geometrijos. Gatvės ir prieigos nėra fiziškai patikrintos.
 
 Veiklų laikai ir vakarienių rezervai yra planavimo orientyrai. Devynioms vakarienėms numatyta apie 255–360 € dviem, be alkoholio ir atskirų desertų. Konkrečios datos autobusų vietos, CIDMA, Etnos sąlygos, Zingaro prieinamumas ir įstaigų darbo laikas turi būti patikrinti prieš užsakant. Šaltiniai pateikti puslapio išskleidžiamose skiltyse.
 
-Žemėlapio geometrija: Openpolis / ISTAT (CC BY 4.0), Natural Earth. Miestų koordinatės: GeoNames / Open-Meteo (CC BY 4.0). D3 7.9.0: ISC licencija, copyright Mike Bostock. Išsaugota bibliotekos licencijos antraštė.
+Žemėlapio geometrija: Openpolis / ISTAT (CC BY 4.0), Natural Earth. Miestų koordinatės: GeoNames / Open-Meteo (CC BY 4.0). Bėgimo gatvės ir trasos: © OpenStreetMap contributors (ODbL); Naxos pėsčiųjų geometrija ir priėjimai – Valhalla. Bėgimo žemėlapių šaltiniai bei prieigos ribos pateikti puslapyje. D3 7.9.0: ISC licencija, copyright Mike Bostock. Išsaugota bibliotekos licencijos antraštė.
