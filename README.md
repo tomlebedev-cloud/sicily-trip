@@ -1,5 +1,7 @@
 # Sicilijos kelionė
 
+2026-10-22 pridėta rekomendacijų ir orų peržiūra bei [spausdinama 11 dienų PDF agenda](output/pdf/sicily-daily-agenda.pdf). Joje išlaikytos nakvynės ir treniruočių datos, pažymėtos Etnos oro alternatyvos ir dabartinis Zingaro prieinamumas. PDF generavimas: `python build_agenda.py` (ReportLab, Pillow, Windows Arial šriftai). Nuotraukų šaltiniai: `assets/PHOTO-CREDITS.md`.
+
 Interaktyvus Tomo ir Elenos kelionės planas: 2026 m. spalio 24 – lapkričio 3 d.
 
 Puslapyje yra visas dienų planas pagal abi nakvynes, 7 Notion bėgimai (82 km ir pagreitėjimai), tikrų gatvių trasų žemėlapiai ir atsisiunčiami GPX, Mario Puzo „Siciliečio“ vietos, išskleidžiami paaiškinimai, Sicilijos, romano vietų ir Europos žemėlapiai, konkretūs vakarienių patiekalai, regiono skonių gidas bei parduotuvių ir turgų nuorodos. Maisto gide taip pat yra paprasti pusryčiai ir maistas išvykoms, paruošiamas be viryklės. Automobilio gide yra 17 stotelių, parkavimo nuorodos, trumpesni panoraminiai variantai ir oficiali Record Go paėmimo / grąžinimo instrukcija. Žemėlapio automobilio taškai žymi vietoves, ne tikslų parkingo įvažiavimą. Papildyta 2026-10-14.
